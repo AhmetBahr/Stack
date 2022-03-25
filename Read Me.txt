@@ -1,0 +1,3 @@
+25 mart 2022 cuma günü lab dersi yapılan üç örnekten bir tanesi 
+
+Stack(yığıt) mantığını kod üstünde nasıl çalıştığını anlamak için yapılan örnek.. 
